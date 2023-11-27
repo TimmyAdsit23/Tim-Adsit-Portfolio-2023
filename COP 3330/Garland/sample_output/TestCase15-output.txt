@@ -1,0 +1,38 @@
+=================
+g.printStrings():
+=================
+the
+whole
+opinionated
+din
+
+=================
+g.printString(i):
+=================
+String at index -3:
+(invalid index)
+
+String at index -2:
+(invalid index)
+
+String at index -1:
+(invalid index)
+
+String at index 0:
+the
+
+String at index 1:
+whole
+
+String at index 2:
+opinionated
+
+String at index 3:
+din
+
+String at index 4:
+(invalid index)
+
+String at index 5:
+(invalid index)
+

@@ -1,0 +1,19 @@
+-> Truk-truk, a string muncher with 10 stomachs, has emerged from the void!
+
+Before heave:
+=============
+caterpillar
+cocoon
+butterfly
+irregardless
+
+After heave:
+============
+caterpillar
+cocoon
+butterfly
+
+Digestive tract size: 3
+Digestive tract capacity: 10
+
+-> Truk-truk has returned to the void.

@@ -1,0 +1,28 @@
+-> Loquid the Abstemious, a string muncher with 10 stomachs, has emerged from the void!
+
+Before digestion:
+=================
+hypoplankton
+algae
+seaweed
+kelp
+
+After first digestion:
+======================
+hypoplankton
+seaweed
+kelp
+
+After second digestion:
+=======================
+hypoplankton
+seaweed
+
+After third digestion:
+======================
+seaweed
+
+Digestive tract size: 1
+Digestive tract capacity: 10
+
+-> Loquid the Abstemious has returned to the void.

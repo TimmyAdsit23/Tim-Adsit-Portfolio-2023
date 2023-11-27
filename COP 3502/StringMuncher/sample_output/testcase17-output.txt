@@ -1,0 +1,13 @@
+-> Womblotian, a string muncher with 15 stomachs, has emerged from the void!
+
+Stomach contents at end of program:
+===================================
+caterpillar
+cocoon
+butterfly
+majestic
+
+Digestive tract size: 4
+Digestive tract capacity: 15
+
+-> Womblotian has returned to the void.

@@ -1,0 +1,10 @@
+-> Loquid the Abstemious, a string muncher with 10 stomachs, has emerged from the void!
+-> Loquid the Abstemious's digestive tract has contracted to consist of only 0 stomachs!
+-> Loquid the Abstemious's digestive tract has expanded to consist of 1 stomach!
+
+hypoplankton
+
+Digestive tract size: 1
+Digestive tract capacity: 1
+
+-> Loquid the Abstemious has returned to the void.

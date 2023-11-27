@@ -1,0 +1,9 @@
+-> Thurburt, a string muncher with 10 stomachs, has emerged from the void!
+
+printStomachContents():
+=======================
+caterpillar
+beatific
+cocoon
+
+-> Thurburt has returned to the void.

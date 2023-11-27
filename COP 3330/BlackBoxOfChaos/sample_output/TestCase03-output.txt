@@ -1,0 +1,108 @@
+Inserting 0...
+Inserting 1...
+Inserting 2...
+Inserting 3...
+Inserting 4...
+-> New compartment latch: north quadrant.
+Inserting 5...
+Inserting 6...
+Inserting 7...
+Inserting 8...
+-> New compartment latch: east quadrant.
+Inserting 9...
+Inserting 10...
+-> New compartment latch: west quadrant.
+Inserting 11...
+Inserting 12...
+Inserting 13...
+-> New compartment latch: north quadrant.
+Inserting 14...
+Inserting 15...
+Inserting 16...
+-> New compartment latch: south quadrant.
+Inserting 17...
+Inserting 18...
+-> New compartment latch: south quadrant.
+Inserting 19...
+
+Contents:
+=========
+Compartment depth: 0
+0
+1
+3
+2
+Compartment depth: 1
+17
+10
+
+Contents:
+=========
+Compartment depth: 0
+2
+1
+0
+3
+Compartment depth: 1
+4
+7
+6
+5
+Compartment depth: 2
+11
+9
+8
+12
+Compartment depth: 3
+19
+13
+15
+14
+
+Contents:
+=========
+Compartment depth: 0
+0
+3
+1
+2
+Compartment depth: 1
+6
+7
+4
+5
+Compartment depth: 2
+12
+8
+9
+11
+Compartment depth: 3
+14
+13
+19
+15
+
+Contents:
+=========
+Compartment depth: 0
+2
+3
+0
+1
+Compartment depth: 1
+6
+7
+4
+5
+Compartment depth: 2
+11
+12
+8
+9
+Compartment depth: 3
+14
+13
+15
+19
+
+size: 20

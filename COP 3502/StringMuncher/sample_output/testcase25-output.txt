@@ -1,0 +1,74 @@
+-> Moncht, a string muncher with 10 stomachs, has emerged from the void!
+
+Before gulp:
+============
+caterpillar
+cocoon
+butterfly
+
+After first gulp:
+=================
+caterpillar
+rallipretac
+cocoon
+butterfly
+
+After second gulp:
+==================
+caterpillar
+rallipretac
+cocoon
+noococ
+butterfly
+
+After third gulp:
+=================
+caterpillar
+rallipretac
+cocoon
+noococ
+butterfly
+ylfrettub
+
+After fourth gulp:
+==================
+caterpillar
+rallipretac
+cocoon
+noococ
+butterfly
+ylfrettub
+top of digestive tract
+
+After fifth gulp:
+=================
+bottom of digestive tract
+caterpillar
+rallipretac
+cocoon
+noococ
+butterfly
+ylfrettub
+top of digestive tract
+
+-> Moncht's digestive tract has expanded to consist of 21 stomachs!
+
+After final gulps:
+==================
+bottom of digestive tract
+-----------
+caterpillar
+rallipretac
+------
+cocoon
+noococ
+------
+butterfly
+ylfrettub
+---------
+top of digestive tract
+
+Digestive tract size: 12
+Digestive tract capacity: 21
+
+-> Moncht has returned to the void.

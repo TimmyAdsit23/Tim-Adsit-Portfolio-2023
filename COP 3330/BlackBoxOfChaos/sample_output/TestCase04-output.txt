@@ -1,0 +1,110 @@
+Inserting a...
+Inserting glooming...
+Inserting peace...
+Inserting this...
+Inserting morning...
+-> New compartment latch: east quadrant.
+Inserting with...
+Inserting it...
+Inserting brings...
+Inserting the...
+-> New compartment latch: north quadrant.
+Inserting sun...
+Inserting for...
+Inserting sorrow...
+Inserting will...
+-> New compartment latch: east quadrant.
+Inserting not...
+-> New compartment latch: north quadrant.
+Inserting show...
+Inserting its...
+Inserting head...
+
+Contents:
+=========
+Compartment depth: 0
+peace
+glooming
+this
+a
+Compartment depth: 1
+morning
+with
+it
+brings
+Compartment depth: 2
+the
+sorrow
+for
+sun
+Compartment depth: 3
+its
+not
+
+Contents:
+=========
+Compartment depth: 0
+glooming
+a
+this
+peace
+Compartment depth: 1
+with
+it
+morning
+brings
+Compartment depth: 2
+the
+sun
+sorrow
+for
+Compartment depth: 3
+will
+show
+head
+
+Contents:
+=========
+Compartment depth: 0
+peace
+this
+glooming
+a
+Compartment depth: 1
+it
+with
+morning
+brings
+Compartment depth: 2
+for
+sun
+the
+sorrow
+Compartment depth: 3
+will
+head
+show
+
+Contents:
+=========
+Compartment depth: 0
+glooming
+a
+peace
+this
+Compartment depth: 1
+brings
+morning
+with
+it
+Compartment depth: 2
+sun
+for
+sorrow
+the
+Compartment depth: 3
+show
+head
+will
+
+size: 17

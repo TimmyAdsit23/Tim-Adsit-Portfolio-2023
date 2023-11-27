@@ -1,0 +1,19 @@
+=========================
+Before g.removeString(0):
+=========================
+size: 3
+benevolence
+beatific
+bravado
+
+=============================
+Status for g.removeString(0):
+=============================
+true
+
+========================
+After g.removeString(0):
+========================
+size: 2
+beatific
+bravado

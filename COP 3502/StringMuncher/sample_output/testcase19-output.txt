@@ -1,0 +1,13 @@
+-> Silquey, a string muncher with 10 stomachs, has emerged from the void!
+-> Silquey's digestive tract has contracted to consist of only 3 stomachs!
+
+Stomach contents after contraction:
+===================================
+muncha
+muncha
+muncha!
+
+Digestive tract size: 3
+Digestive tract capacity: 3
+
+-> Silquey has returned to the void.

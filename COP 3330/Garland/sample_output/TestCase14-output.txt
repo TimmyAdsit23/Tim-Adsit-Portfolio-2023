@@ -1,0 +1,29 @@
+=================
+g.printStrings():
+=================
+din
+
+=================
+g.printString(i):
+=================
+String at index -3:
+(invalid index)
+
+String at index -2:
+(invalid index)
+
+String at index -1:
+(invalid index)
+
+String at index 0:
+din
+
+String at index 1:
+(invalid index)
+
+String at index 2:
+(invalid index)
+
+String at index 3:
+(invalid index)
+

@@ -1,0 +1,22 @@
+-> Womblotian, a string muncher with 10 stomachs, has emerged from the void!
+-> Womblotian's digestive tract has expanded to consist of 21 stomachs!
+
+Stomach contents at end of program:
+===================================
+munch
+munch
+munch!
+monch
+monch
+monch!
+muncha
+muncha
+muncha!
+CRONCH
+CRONCH
+CRONCH!
+
+Digestive tract size: 12
+Digestive tract capacity: 21
+
+-> Womblotian has returned to the void.

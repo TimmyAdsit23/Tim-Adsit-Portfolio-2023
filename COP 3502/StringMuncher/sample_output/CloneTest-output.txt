@@ -1,0 +1,8 @@
+-> Malthywix, a string muncher with 99 stomachs, has emerged from the void!
+-> Successfully cloned Malthywix, a string muncher with 99 stomachs, 3 of which are full.
+
+Original internals look good!
+Clone internals look good!
+
+-> Malthywix has returned to the void.
+-> Malthywix has returned to the void.

@@ -1,0 +1,18 @@
+-> Truk-truk, a string muncher with 10 stomachs, has emerged from the void!
+
+Before heave:
+=============
+irregardless
+
+After first heave:
+==================
+(Truk-truk's digestive tract is empty.)
+
+After dry heaves (sorry!):
+==========================
+(Truk-truk's digestive tract is empty.)
+
+Digestive tract size: 0
+Digestive tract capacity: 10
+
+-> Truk-truk has returned to the void.

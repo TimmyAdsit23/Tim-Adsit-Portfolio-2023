@@ -1,0 +1,36 @@
+-> Moploch the Patient, a string muncher with 10 stomachs, has emerged from the void!
+
+Before transformation:
+======================
+caterpillar
+cocoon
+butterfly
+
+After first transformation:
+===========================
+rallipretac
+cocoon
+butterfly
+
+After second transformation:
+============================
+rallipretac
+noococ
+butterfly
+
+After third transformation:
+===========================
+rallipretac
+noococ
+ylfrettub
+
+After final transformation:
+===========================
+*poof*
+*poof*
+*poof*
+
+Digestive tract size: 3
+Digestive tract capacity: 10
+
+-> Moploch the Patient has returned to the void.

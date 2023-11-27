@@ -1,0 +1,18 @@
+-> Moncht, a string muncher with 10 stomachs, has emerged from the void!
+
+Before attempted gulping:
+=========================
+caterpillar
+cocoon
+butterfly
+
+After attempted gulping:
+========================
+caterpillar
+cocoon
+butterfly
+
+Digestive tract size: 3
+Digestive tract capacity: 10
+
+-> Moncht has returned to the void.

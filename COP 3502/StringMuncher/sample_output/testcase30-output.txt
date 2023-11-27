@@ -1,0 +1,19 @@
+-> Olafur, a string muncher with 10 stomachs, has emerged from the void!
+
+Before evacuate:
+================
+irregardless
+caterpillar
+cocoon
+butterfly
+
+After evacuate:
+===============
+caterpillar
+cocoon
+butterfly
+
+Digestive tract size: 3
+Digestive tract capacity: 10
+
+-> Olafur has returned to the void.

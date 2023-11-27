@@ -1,0 +1,13 @@
+================
+Before removals:
+================
+size: 3
+benevolence
+beatific
+bravado
+
+===============
+After removals:
+===============
+size: 1
+bravado

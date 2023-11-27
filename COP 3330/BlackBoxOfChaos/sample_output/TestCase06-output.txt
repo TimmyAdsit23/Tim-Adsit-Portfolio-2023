@@ -1,0 +1,5 @@
+Warning: Failed to activate chaotic spiral.
+Warning: Box is irrevocably locked and unusable.
+Exception in thread "main" ChaosException: non-functional black box of chaos
+	at BlackBoxOfChaos.emplace(BlackBoxOfChaos.java:326)
+	at TestCase06.main(TestCase06.java:15)

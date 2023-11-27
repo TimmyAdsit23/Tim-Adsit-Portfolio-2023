@@ -1,0 +1,4 @@
+'x' count: 0
+'r' count: 0
+' ' count: 0
+'\0' count: 0
